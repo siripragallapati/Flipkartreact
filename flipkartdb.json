@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "iphone",
+      "brand": "Apple",
+      "price": "100000",
+      "description": "an iphone",
+      "thumbnail": "https://www.reliancedigital.in/medias/Apple-MLPF3HN-A-Smart-Phone-491997699-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NjYzOHxpbWFnZS9qcGVnfGltYWdlcy9oMzgvaGE2Lzk4NzgwOTAyODUwODYuanBnfGVkNmFmZTBiOTBjYmFlZWRiZTk4YzRhMGU5NjA0ZmNmM2ZhYzRhYjEyZmY4MWY2ZTFhMzBkM2ZlOGM0Y2QzYTQ",
+      "id": 1
+    },
+    {
+      "productId": "3",
+      "title": "moto g84",
+      "brand": "Motorola",
+      "price": "20000",
+      "description": "an android mobile",
+      "thumbnail": "https://m.media-amazon.com/images/I/51rHstLKx4L._AC_SS300_.jpg",
+      "id": 3
+    },
+    {
+      "productId": "2",
+      "title": "Galaxy23",
+      "brand": "Samsung",
+      "price": "50000",
+      "description": "an android mobile",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/7/p/u/-original-imagu4haquhdpjev.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "productId": "4",
+      "title": "Samsung Tabs9",
+      "brand": "Samsung",
+      "price": "60000",
+      "description": "an android Tablet",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/kdrpksw0/tablet/w/f/6/samsung-sm-t975nzkainu-original-imafuhg9tfydgg78.jpeg?q=70",
+      "id": 5
+    }
+  ]
+}
